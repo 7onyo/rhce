@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 620" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <style>
+    .r { fill: #cc0000; font-family: monospace; font-size: 16px; white-space: pre; }
+    .w { fill: #ffffff; font-family: monospace; font-size: 16px; white-space: pre; font-weight: bold; }
+  </style>
+  <text x="20" y="20">
+    <tspan x="20" dy="1.2em" class="r">                          .0KKXXXXXXKK0.                          </tspan>
+    <tspan x="20" dy="1.2em" class="r">                     .';codxxxxxxxxxxxxdoc;'.                     </tspan>
+    <tspan x="20" dy="1.2em" class="r">                 .,ldxxxxxxxxxxxxxxxxxxxxxxxxdl,.                 </tspan>
+    <tspan x="20" dy="1.2em" class="r">              .:dxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxd:.              </tspan>
+    <tspan x="20" dy="1.2em" class="r">            'oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo'            </tspan>
+    <tspan x="20" dy="1.2em" class="r">          ,dxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxd,          </tspan>
+    <tspan x="20" dy="1.2em" class="r">        .oxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">kOk</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxo.        </tspan>
+    <tspan x="20" dy="1.2em" class="r">       ;xxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">KMMMK</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxx;       </tspan>
+    <tspan x="20" dy="1.2em" class="r">      lxxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">0MMMMM0</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxxl      </tspan>
+    <tspan x="20" dy="1.2em" class="r">     lxxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">OMMMMMMMO</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxxl     </tspan>
+    <tspan x="20" dy="1.2em" class="r">    :xxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">kWMMWOWMMWk</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxx:    </tspan>
+    <tspan x="20" dy="1.2em" class="r">   .xxxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">WMMMO</tspan><tspan class="r">x</tspan><tspan class="w">OMMMW</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxxx.   </tspan>
+    <tspan x="20" dy="1.2em" class="r">   oxxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">NMMM0</tspan><tspan class="r">xxx</tspan><tspan class="w">0MMMN</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxxo   </tspan>
+    <tspan x="20" dy="1.2em" class="r">  .xxxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">XMMMK</tspan><tspan class="r">xxxxx</tspan><tspan class="w">KMMMX</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxxx.  </tspan>
+    <tspan x="20" dy="1.2em" class="r">  ,xxxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">KMMMN</tspan><tspan class="r">xxxxxxx</tspan><tspan class="w">XMMMK</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxxx,  </tspan>
+    <tspan x="20" dy="1.2em" class="r">  ,xxxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">0MMMMMN0</tspan><tspan class="r">xxxxxx</tspan><tspan class="w">NMMM0</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxxx,  </tspan>
+    <tspan x="20" dy="1.2em" class="r">  .xxxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">OMMMMXMMMMXO</tspan><tspan class="r">xxx</tspan><tspan class="w">kWMMMO</tspan><tspan class="r">xxxxxxxxxxxxxxxxxxx.  </tspan>
+    <tspan x="20" dy="1.2em" class="r">   xxxxxxxxxxxxxxxxxxx</tspan><tspan class="w">kWMMMO</tspan><tspan class="r">x</tspan><tspan class="w">kKWMMMWKk</tspan><tspan class="r">x</tspan><tspan class="w">OMMMWk</tspan><tspan class="r">xxxxxxxxxxxxxxxxxx   </tspan>
+    <tspan x="20" dy="1.2em" class="r">   'xxxxxxxxxxxxxxxxxx</tspan><tspan class="w">WMMMK</tspan><tspan class="r">xxxxx</tspan><tspan class="w">OXMMMMN00MMMW</tspan><tspan class="r">xxxxxxxxxxxxxxxxx'   </tspan>
+    <tspan x="20" dy="1.2em" class="r">    dxxxxxxxxxxxxxxxx</tspan><tspan class="w">NMMMX</tspan><tspan class="r">xxxxxxxxx</tspan><tspan class="w">0NMMMWWMMMN</tspan><tspan class="r">xxxxxxxxxxxxxxxd    </tspan>
+    <tspan x="20" dy="1.2em" class="r">     xxxxxxxxxxxxxxx</tspan><tspan class="w">XMMMN</tspan><tspan class="r">xxxxxxxxxxxx</tspan><tspan class="w">OXWMMMMMMX</tspan><tspan class="r">xxxxxxxxxxxxxx     </tspan>
+    <tspan x="20" dy="1.2em" class="r">     .xxxxxxxxxxxxx</tspan><tspan class="w">KMMMW</tspan><tspan class="r">xxxxxxxxxxxxxxxx</tspan><tspan class="w">0NMMMMMK</tspan><tspan class="r">xxxxxxxxxxxx.     </tspan>
+    <tspan x="20" dy="1.2em" class="r">       xxxxxxxxxxx</tspan><tspan class="w">OWWWWk</tspan><tspan class="r">xxxxxxxxxxxxxxxxxx</tspan><tspan class="w">kKWMW0</tspan><tspan class="r">xxxxxxxxxxx       </tspan>
+    <tspan x="20" dy="1.2em" class="r">        oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo        </tspan>
+    <tspan x="20" dy="1.2em" class="r">         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.         </tspan>
+    <tspan x="20" dy="1.2em" class="r">           .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.           </tspan>
+    <tspan x="20" dy="1.2em" class="r">              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              </tspan>
+    <tspan x="20" dy="1.2em" class="r">                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 </tspan>
+    <tspan x="20" dy="1.2em" class="r">                     xxxxxxxxxxxxxxxxxxxxxxxx                     </tspan>
+    <tspan x="20" dy="1.2em" class="r">                           'xxxxxxxxxx'                           </tspan>
+  </text>
+</svg>
