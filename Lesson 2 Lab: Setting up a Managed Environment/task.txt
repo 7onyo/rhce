@@ -1,0 +1,11 @@
+Lesson 2 Lab: Setting up a Managed Environment
+
+    Finalize setting up the Ansible managed environment and ensure your setup meets the following requirements:
+
+        User Ansible is used for all management tasks on managed hosts
+
+        Inventory is set up
+
+        Ansible.cfg is configured for sudo privilege escalation
+
+        SSH key-based login has been configured

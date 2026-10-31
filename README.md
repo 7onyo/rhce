@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ascii.svg" width="30%">
+  <img src="ascii.svg" width="70%">
   <h1>RHCE Study Notes & Labs</h1>
 </div>
 
