@@ -1,0 +1,13 @@
+---
+- name: Register nodes to Red Hat Subscription Manager
+  hosts: all
+  vars_files:
+    - secrets.yml
+
+  tasks:
+    - name: Register system using activation key
+      redhat_subscription:
+        state: present
+        org_id: "{{ rh_org_id }}"
+        activationkey: "{{ rh_activation_key }}"
+        force_register: yes
