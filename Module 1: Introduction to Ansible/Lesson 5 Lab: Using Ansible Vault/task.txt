@@ -1,0 +1,9 @@
+Lesson 5 Lab: Using Ansible Vault
+
+    Create a playbook that creates a user. The user as well as the password should come from a variable.
+
+    Define both in separate include files.
+
+    Make sure the password is encrypted with vault, whereas the username is not encrypted with vault.
+
+    Verify it works.

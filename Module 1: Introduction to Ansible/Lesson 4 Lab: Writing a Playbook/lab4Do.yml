@@ -1,0 +1,23 @@
+---
+- name: Setup httpd
+  hosts: ansible2
+  tasks: 
+    - name: install httpd 
+      yum:
+        name: httpd
+        state: latest
+    - name: start httpd
+      service:
+        name: httpd
+        enabled: true
+        state: started
+    - name: open http port
+      firewalld:
+        service: http
+        permanent: true
+        state: enabled
+        immediate: true
+    - name: create index.html
+      copy:
+        content: "<h1>Welcome to Ansible</h1>"
+        dest: /var/www/html/index.html 

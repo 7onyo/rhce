@@ -1,0 +1,7 @@
+Lesson 3 Lab: Working with Modules
+
+    Install the community.crypto collection in such a way that it can be used by ansible-navigator, as well as the ansible command
+
+    Use the ping module in an ad hoc command to verify that all of your hosts have been set up successfully
+
+    Use the appropriate ad hoc command to run the grep ssh command on the output of the rpm -qa command on all managed hosts
