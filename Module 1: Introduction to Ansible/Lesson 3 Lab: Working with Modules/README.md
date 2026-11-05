@@ -8,39 +8,7 @@
 
 ## Solution
 
-### Step 1: Verify the `ansible.cfg` configuration
-
-Open the Ansible configuration file in your home directory and confirm it contains the correct settings for inventory, remote user, collections path, and privilege escalation:
-
-```bash
-nano ~/ansible.cfg
-```
-
-**Configuration file: `ansible.cfg`**
-
-```ini
-[defaults]
-inventory = inventory
-remote_user = ansible
-collections_path = /home/onyo/.ansible/collections:/usr/share/ansible/collections
-ask_pass = false
-
-[privilege_escalation]
-become = true
-become_method = sudo
-become_user = root
-become_ask_pass = false
-```
-
-> **Note:** The `collections_path` directive lists the directories Ansible searches for installed collections. Setting it here ensures both `ansible` and `ansible-navigator` use the same lookup paths.
-
-<p align="center">
-  <img src="media/ansibleConfig.png" alt="Screenshot showing ansible.cfg open in nano with defaults and privilege escalation sections" width="800"/>
-</p>
-
----
-
-### Step 2: Install the `community.crypto` collection
+### Step 1: Install the `community.crypto` collection
 
 ```bash
 ansible-galaxy collection install community.crypto -p collections
@@ -52,7 +20,7 @@ ansible-galaxy collection install community.crypto -p collections
 
 ---
 
-### Step 3: Ping all managed hosts
+### Step 2: Ping all managed hosts
 
 Use the `ping` module in an ad hoc command to verify that all hosts in the inventory are reachable and properly configured:
 
@@ -68,7 +36,7 @@ Both `ansible1` and `ansible2` should return `"ping": "pong"` with a `SUCCESS` s
 
 ---
 
-### Step 4: Query SSH-related packages on all managed hosts
+### Step 3: Query SSH-related packages on all managed hosts
 
 Use the `shell` module to pipe the output of `rpm -qa` through `grep ssh` on every managed node:
 
